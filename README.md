@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Java Developer<br>- Software Developer at @paipe</p>
+<p align="left">- Java Developer<br>- Software Developer | MBA Arquitetura Full Cycle</p>
 
 ###
 
